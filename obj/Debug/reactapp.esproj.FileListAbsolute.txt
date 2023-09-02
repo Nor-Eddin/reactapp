@@ -1,0 +1,2 @@
+C:\Users\nored\OneDrive\Bureau\mini projet d'apprentissage CS\React et asp\ReactAspcore\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\nored\OneDrive\Bureau\mini projet d'apprentissage CS\React et asp\ReactAspcore\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
