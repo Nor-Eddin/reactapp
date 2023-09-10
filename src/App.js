@@ -6,12 +6,13 @@ export default class App extends Component {
     constructor(props) {
         super(props);
         this.state = { forecasts: [], loading: true };
+        
     }
 
     componentDidMount() {
         this.populateWeatherData();
     }
-
+    
     static renderForecastsTable(forecasts) {
         return (
             <table className='table table-striped' aria-labelledby="tabelLabel">
