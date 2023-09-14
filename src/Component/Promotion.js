@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Login = () => {
+const Promotion = () => {
     return (
         <div className="container mt-5">
-        <h1>je suis dans la page d login</h1>
+        <h1>je suis dans la page des promotions</h1>
         </div>
     )
 }
 
-export default Login;
+
+export default Promotion;

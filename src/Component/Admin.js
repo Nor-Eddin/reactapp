@@ -1,12 +1,11 @@
 import React from 'react';
 
-const Home = () => {
+const Admin = () => {
     return (
         <div className="container mt-5">
-        <h1>je suis dans la page d'acceuil</h1>
+        <h1>je suis dans la page d login</h1>
         </div>
     )
 }
 
-
-export default Home;
+export default Admin;
